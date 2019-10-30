@@ -14,3 +14,7 @@ def link
  phrase = ""It's Dangerous To Go Alone! Take This.\n""
  puts phrase
  end
+ 
+ 
+ def any_phrase 
+ any_phrase
