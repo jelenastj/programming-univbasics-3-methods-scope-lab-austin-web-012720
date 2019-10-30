@@ -11,12 +11,15 @@ def toadstool
 end
 
 def link 
- phrase = ""It's Dangerous To Go Alone! Take This.\n"
+ phrase = "It's Dangerous To Go Alone! Take This.\n"
  puts phrase
 end
  
  
  def any_phrase 
-    phrase = "Do A Barrel Roll!\n""
+    phrase = "Do A Barrel Roll!\n"
+    puts phrase
+  end
+  
     
  
