@@ -11,7 +11,7 @@ def toadstool
 end
 
 def link 
-  phrase = "Do A Barrel Roll!"
+  any_phrase = "Do A Barrel Roll!"
   puts ="It's Dangerous To Go Alone! Take This.\n"
-  puts phrase
+  puts any_phrase
 end
