@@ -12,6 +12,6 @@ end
 
 def link 
   phrase = "Do A Barrel Roll!"
-  puts ="It's Dangerous To Go Alone! Take This."
+  puts ="It's Dangerous To Go Alone! Take This.\n"
   puts phrase
 end
